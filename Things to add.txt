@@ -1,9 +1,0 @@
-Buttons who will show Categories ✅
-Scrollbar edit ✅
-Checkout Page
-Simor Effect
-Online/Offline
-Signup / Signin
-Contact Page
-Modify Footer
-Dark Theme
