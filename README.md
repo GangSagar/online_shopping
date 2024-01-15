@@ -29,6 +29,6 @@ The product details page offers in-depth information about a selected item. User
 
 ## Video Demo
 
-Explore the website in action by watching our [Shopping Website Video](#). Experience the features firsthand and enjoy your online shopping journey!
+Explore the website in action by watching our [Shopping Website Video](https://drive.google.com/file/d/1delcn33i0e2RmOziRXzz34PvXsu_OnCp/view?usp=sharing). Experience the features firsthand and enjoy your online shopping journey!
 
 Feel free to contribute, report issues, or provide feedback to enhance our Shopping Website. Happy shopping!
